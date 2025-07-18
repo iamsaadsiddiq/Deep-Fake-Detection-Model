@@ -118,9 +118,9 @@ This project was completed under the academic supervision of **Ma’am Aima Muni
 
 ## Author
 
-**Muhammad Saad**
-Just an ordinary programmer
-📫 [LinkedIn](https://www.linkedin.com/muhammadsaadsabri) | [GitHub](https://github.com/iamsaadsiddiq)
+- **Muhammad Saad**
+- Just an ordinary programmer
+- [LinkedIn](https://www.linkedin.com/in/muhammadsaadsabri/) | [GitHub](https://github.com/iamsaadsiddiq)
 
 ---
 
