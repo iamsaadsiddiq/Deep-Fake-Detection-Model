@@ -25,9 +25,13 @@ The core model is built upon **MobileNetV2**, a lightweight CNN architecture opt
 - Added `MaxPooling2D` and dense layers for dimensionality reduction
 - Final activation layer replaced with a **sigmoid function** to produce probabilistic binary output:
 
-\[
-\sigma(x) = \frac{1}{1 + e^{-x}}
-\]
+σ(x)= 
+1+e 
+−x
+ 
+1
+​
+
 
 ### Training Specifications:
 - Loss Function: `Binary Crossentropy`
