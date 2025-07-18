@@ -1,4 +1,4 @@
-# 🧠 Deep Fake Detection Model
+#  Deep Fake Detection Model
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange)
